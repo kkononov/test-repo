@@ -1,2 +1,3 @@
 New file
 Another line
+New branch test

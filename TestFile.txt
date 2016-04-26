@@ -1,10 +1,6 @@
-New lines
-New lines
-New lines
-New (mew)
-New lines
-New lines
-New lines (new)
-New lines
-Something
-Another line
+01
+23
+34
+56
+78
+9

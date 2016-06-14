@@ -1,4 +1,1 @@
-new file!
-(edited file)
-plus
-(edited again)
+old file

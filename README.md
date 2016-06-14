@@ -1,4 +1,4 @@
 # test-repo
-Test repository
+## Test repository
 One more test
 (updated)

@@ -3,7 +3,9 @@ package Hello;
 public class Main {
 
   public static void main(String[] args) {
-    String str = Klass./*TEST*/getText(10) + " is not " + Klass.getText(20) + "; ";
+    if ("1020".equals(Klass./*TEST*/getText(10) + Klass.getText(20))) {
+      System.out.print("true");
+    }
   }
 
 }

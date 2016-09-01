@@ -1,3 +1,4 @@
 Text file content:
 new
 old
+one more

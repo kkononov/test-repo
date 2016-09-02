@@ -1,2 +1,3 @@
 test
 master addition
+fast forward addition

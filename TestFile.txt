@@ -1,3 +1,2 @@
 One more change
-Test text added
 New third line (updated)

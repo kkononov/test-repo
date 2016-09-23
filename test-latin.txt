@@ -3,7 +3,7 @@ Curabitur vehicula lectus ac nisl blandit interdum.
 Aenean eget urna hendrerit, aliquet enim non, blandit diam.
 Phasellus sed nibh at erat convallis gravida.
 Donec hendrerit magna tempus lacus porttitor, sit amet ullamcorper mauris iaculis.
-Nullam semper augue sed tellus iaculis ultricies.
+Nullam semper augue sed iaculis ultricies.
 Nam a est lobortis turpis ultrices accumsan.
 Fusce blandit enim quis tincidunt mollis.
 Cras molestie mauris in porttitor interdum.
@@ -13,7 +13,7 @@ Suspendisse at elit condimentum, vestibulum orci vitae, tristique justo.
 Ut nec orci pretium, convallis lorem non, rhoncus massa.
 
 Ut at mauris quis orci facilisis finibus id dignissim odio.
-Nulla luctus turpis id nunc convallis, a varius risus tincidunt.
+Nulla luctus turpis id nunc placerat convallis, a varius risus tincidunt.
 
 
 Suspendisse pellentesque velit id ornare bibendum.
@@ -51,6 +51,7 @@ Integer ultricies lorem pulvinar odio porta, in scelerisque sem efficitur.
 Aliquam ornare sapien quis odio pharetra euismod.
 
 Nulla at nibh congue, maximus dui et, facilisis ligula.
+Ut ut turpis euismod, ultricies quam facilisis, vehicula ligula.
 Praesent tristique est sit amet blandit hendrerit.
 Praesent condimentum quam non nibh lacinia malesuada ut quis quam.
 Phasellus finibus diam vel vulputate lacinia.
@@ -58,7 +59,7 @@ Sed sit amet odio id leo lobortis convallis sit amet eu enim.
 Aliquam finibus dolor quis quam fermentum hendrerit.
 Nullam a ante eu mi porta lacinia a sit amet dui.
 Duis vitae tellus a justo suscipit faucibus.
-Nam id odio ultricies, egestas arcu sit amet, sodales quam.
+Nam id odio, egestas arcu sit amet, sodales quam.
 Vestibulum ut velit et nisi volutpat volutpat.
 Aliquam sodales ante eget mollis molestie.
 Nam iaculis leo non ex gravida, in fermentum sem pretium.

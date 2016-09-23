@@ -4,7 +4,7 @@ Maecenas mattis odio et nisl feugiat blandit.
 Fusce condimentum elit eleifend, porta odio et, volutpat enim.
 Integer et nulla luctus, efficitur magna quis, ultrices sem.
 Sed ornare justo vitae augue rhoncus, vel iaculis justo pellentesque.
-Ut commodo elit quis risus varius, ut aliquam dolor congue.
+Ut commodo elit lectus quis risus varius, aliquam dolor congue.
 Fusce egestas tortor vel arcu mollis commodo.
 Pellentesque et ex a mi luctus sollicitudin.
 Donec volutpat felis eget sagittis sollicitudin.
@@ -32,7 +32,7 @@ Pellentesque tempus mi at risus faucibus iaculis.
 Vivamus ultricies justo sit amet leo ornare accumsan.
 
 
-Duis eget ipsum vehicula, bibendum augue sit amet, tempor turpis.
+Duis eget ipsum mi vehicula, bibendum dui augue sit amet, tempor turpis.
 Fusce vestibulum nisi at tortor ultricies, eget porta lacus tincidunt.
 Donec vestibulum dolor sed malesuada laoreet.
 Sed ultrices neque eu augue consectetur porta id non urna.
@@ -74,7 +74,6 @@ Maecenas consequat erat quis tempus fermentum.
 Sed facilisis purus in sapien lacinia pretium.
 Aliquam at leo cursus, tristique orci dapibus, eleifend magna.
 Phasellus at ipsum varius, maximus urna in, efficitur urna.
-Phasellus ac mi vitae lectus consequat efficitur.
 Vestibulum id lectus eget leo volutpat feugiat ac id turpis.
 Nunc lacinia odio eu sapien efficitur, ut consequat ipsum auctor.
 Etiam eu nisl consequat, scelerisque neque quis, molestie purus.

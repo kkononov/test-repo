@@ -13,7 +13,6 @@ Suspendisse at elit condimentum, vestibulum orci vitae, tristique justo.
 Ut nec orci pretium, convallis lorem non, rhoncus massa.
 
 Ut at mauris quis orci facilisis finibus id dignissim odio.
-Nulla luctus turpis id nunc placerat convallis, a varius risus tincidunt.
 
 
 Suspendisse pellentesque velit id ornare bibendum.

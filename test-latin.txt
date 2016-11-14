@@ -5,7 +5,6 @@ Phasellus sed nibh at erat convallis gravida.
 Donec hendrerit magna tempus lacus porttitor, sit amet ullamcorper mauris iaculis.
 Nullam semper augue sed iaculis ultricies.
 Nam a est lobortis turpis ultrices accumsan.
-Fusce blandit enim quis tincidunt mollis.
 Cras molestie mauris in porttitor interdum.
 Duis porttitor justo sit amet maximus pulvinar.
 Proin feugiat sem id lacus finibus egestas.

@@ -21,8 +21,6 @@ Nulla aliquam neque eu mattis consequat.
 Ut commodo orci in leo pellentesque.
 Ut accumsan tortor in dapibus placerat.
 Ut at mauris congue turpis scelerisque consequat.
-Sed accumsan mauris eu nisl iaculis, sit amet dignissim nisl ullamcorper.
-Nulla bibendum nibh et nisl cursus, at congue urna hendrerit.
 Sed in enim in nisl condimentum ullamcorper sit amet eget lorem.
 In sed lacus suscipit, faucibus tellus sed, efficitur neque.
 Nulla sodales massa eget mi elementum aliquet.

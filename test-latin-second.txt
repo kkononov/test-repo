@@ -21,7 +21,6 @@ Ut accumsan tortor in dapibus placerat.
 Ut at mauris congue turpis scelerisque consequat.
 Sed in enim in nisl condimentum ullamcorper sit amet eget lorem.
 In sed lacus suscipit, faucibus tellus sed, efficitur neque.
-Nulla sodales massa eget mi elementum aliquet.
 Sed imperdiet purus congue nisl tristique, eu efficitur quam iaculis.
 Fusce gravida libero quis porttitor scelerisque.
 Pellentesque tempus mi at risus faucibus iaculis.

@@ -10,7 +10,6 @@ Pellentesque et ex a mi luctus sollicitudin.
 Donec volutpat felis eget sagittis sollicitudin.
 Quisque non velit vel dolor suscipit aliquet.
 Vivamus eu metus aliquam, consectetur lectus vehicula, porta dui.
-Maecenas vitae est pellentesque, pharetra odio non, posuere arcu.
 Nullam vel ex eu eros sollicitudin pharetra eget nec magna.
 Fusce vel libero ac nisi egestas tincidunt.
 Mauris in est non nibh tincidunt dignissim eget ut nibh.

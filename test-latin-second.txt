@@ -5,7 +5,7 @@ Fusce condimentum elit eleifend, porta odio et, volutpat enim.
 Integer et nulla luctus, efficitur magna quis, ultrices sem.
 Sed ornare justo vitae augue rhoncus, vel iaculis justo pellentesque.
 Ut commodo elit lectus quis risus varius, aliquam dolor congue.
-Pellentesque et ex a mi luctus sollicitudin.
+
 Quisque non velit vel dolor suscipit aliquet.
 Vivamus eu metus aliquam, consectetur lectus vehicula, porta dui.
 Nullam vel ex eu eros sollicitudin pharetra eget nec magna.

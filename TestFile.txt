@@ -1,3 +1,2 @@
 One more change
-another line
 test line (+ one more test)

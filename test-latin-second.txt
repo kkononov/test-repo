@@ -8,7 +8,7 @@ Ut commodo elit lectus quis risus varius, aliquam dolor congue.
 
 Quisque non velit vel dolor suscipit aliquet.
 Vivamus eu metus aliquam, consectetur lectus vehicula, porta dui.
-Nullam vel ex eu eros sollicitudin pharetra eget nec magna.
+Nullam vel ex eu eros sollicitudin pharetra eget nec.
 Mauris in est non nibh tincidunt dignissim eget ut nibh.
 
 Sed rutrum massa a ante bibendum, at sollicitudin metus tincidunt.New

@@ -7,7 +7,7 @@ Sed ornare justo vitae augue rhoncus, vel iaculis justo pellentesque.
 Ut commodo elit lectus quis risus varius, aliquam dolor congue.
 
 Quisque non velit vel dolor suscipit aliquet.
-Vivamus eu metus aliquam, consectetur lectus vehicula, porta.
+Vivamus eu metus aliquam, consectetur lectus, porta.
 Nullam vel ex eu eros sollicitudin pharetra eget nec.
 Mauris in est non nibh tincidunt dignissim eget ut nibh.
 

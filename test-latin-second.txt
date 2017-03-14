@@ -13,7 +13,7 @@ Mauris in est non nibh tincidunt dignissim eget ut nibh.
 
 Sed rutrum massa a ante bibendum, at sollicitudin metus tincidunt.New
 Ut at mauris congue turpis scelerisque consequat.
-Sed in enim in nisl condimentum ullamcorper sit amet eget lorem.
+Sed in enim in nisl condimentum ullamcorper sit amet eget.
 
 In sed lacus suscipit, faucibus tellus sed, efficitur urnasi.
 Sed imperdiet purus congue nisl tristique, eu efficitur quam iaculis.

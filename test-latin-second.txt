@@ -57,7 +57,8 @@ Curabitur non purus accumsan enim vestibulum cursus a eget sapien.
 Fusce sollicitudin justo vel dictum condimentum.
 Nullam eu justo ac massa ornare molestie id id justo.
 Sed tincidunt purus et nulla convallis sodales.
-Curabitur porttitor lacus non augue venenatis fringilla.
+
+Curabitur porttitor lacus augue venenatis fringilla.
 Donec elementum nulla ut urna semper, ac mollis augue elementum.
 Maecenas non justo ut orci bibendum dictum.
 Maecenas consequat erat quis tempus fermentum.

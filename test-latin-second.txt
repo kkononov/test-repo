@@ -26,7 +26,7 @@ Vivamus ultricies justo sit amet leo ornare accumsan.
 Duis eget ipsum mi vehicula, bibendum dui augue sit amet, tempor turpis.
 Fusce vestibulum nisi at tortor ultricies, eget porta lacus tincidunt.
 Donec vestibulum dolor sed malesuada laoreet.
-Sed ultrices neque eu augue consectetur porta id non urna.
+Sed ultrices neque eu augue consectetur porta id non
 Proin id leo eget leo efficitur finibus.
 Suspendisse quis eros ut quam convallis iaculis id ut nisi.
 Donec interdum lacus sed mi semper venenatis.

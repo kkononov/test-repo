@@ -33,7 +33,7 @@ Donec interdum lacus sed mi semper venenatis.
 Aliquam nec tortor at sem venenatis efficitur.
 Morbi eu ex vestibulum, auctor diam at, elementum dui.
 Nulla tempus nulla in lectus rhoncus, vitae pretium nibh placerat.
-Fusce blandit dolor non tempus mattis.
+
 Mauris in diam eget libero malesuada vulputate a a dui.
 Proin id metus malesuada, semper metus et, auctor neque.
 Etiam facilisis velit at orci viverra, quis porta felis tincidunt.

@@ -1,3 +1,16 @@
-CAUTION: test
-== header
-ok
+table header and footer rows:: {empty}
++
+[%header%footer]
+|===
+|Month |Savings |test
+
+|Jan
+|$100
+|1
+
+|Feb
+|$50
+|2
+
+3+|Total saved: $150
+|===

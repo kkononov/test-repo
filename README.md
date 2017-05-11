@@ -34,6 +34,8 @@ var webpackOptions = webpackConfigMerger(require('perl'), {
 })
 ```
 
+0
+![imageText](~download/test-repo:ca63bff15776646b848f7f9dfea681e368f29564:test.png)
 1
 ![imageText](/~download/test-repo:ca63bff15776646b848f7f9dfea681e368f29564:test.png)
 2

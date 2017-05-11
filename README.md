@@ -46,3 +46,5 @@ var webpackOptions = webpackConfigMerger(require('perl'), {
 ![imageText](/images10/test.png)
 5
 ![imageText](images10/content/test.png)
+6
+![imageText](https://www.jetbrains.com/help/img/upsource/2017.1/up_some_image.png)

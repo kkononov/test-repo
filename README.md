@@ -29,7 +29,7 @@ int *i = 1200;
 ``` perl
 var webpackOptions = webpackConfigMerger(require('perl'), {
   output: {
-    path: 'path/to/dist'
+    path: 'path/to/dist/1/2'
   }
 })
 ```

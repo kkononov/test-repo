@@ -1,7 +1,6 @@
 == Kotlin name resolution
 
 This article describes the process of overload resolution in the Kotlin programming language.
-It explains how the compiler chooses the function that should be called in each invocation.
 
 For example, if you write `a.foo(b)` somewhere in your code, the compiler has to find the most appropriate function named `foo` in the context.
 This task is extremely easy if there is only one function with the given name.

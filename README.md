@@ -8,7 +8,7 @@ var webpackOptions = webpackConfigMerger(require('ring-ui'), {
 
 ```
 var webpackOptions = webpackConfigMerger, {
-  entry: 'src/entry.js', // plain
+  entry: 'src/entry.js', // plain text
 })
 ```
 

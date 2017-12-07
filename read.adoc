@@ -5,7 +5,7 @@ table header and footer rows:: {empty}
 |Month |Savings |test
 
 |Jan
-|$100
+|$200
 |1
 
 |Feb

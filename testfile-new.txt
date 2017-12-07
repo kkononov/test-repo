@@ -1,4 +1,2 @@
 Text file content:
 old
-one more
-two more

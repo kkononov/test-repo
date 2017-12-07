@@ -21,7 +21,7 @@ var webpackOptions = webpackConfigMerger(require('perl'), {
 ```
 
 ``` clike
-int *i = 1200;
+int *i = 120;
 ```
 
 ## Test code

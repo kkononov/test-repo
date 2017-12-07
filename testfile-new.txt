@@ -1,2 +1,2 @@
 Text file content:
-old
+old new

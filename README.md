@@ -1,4 +1,4 @@
-## Test project (this is <h1> tag test)
+## Test project
 
 ``` javascript
 var webpackOptions = webpackConfigMerger(require('ring-ui'), {

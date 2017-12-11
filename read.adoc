@@ -9,7 +9,7 @@ table header and footer rows:: {empty}
 |1
 
 |Feb
-|$509
+|$5090
 |2
 
 3+|Total saved: $2500

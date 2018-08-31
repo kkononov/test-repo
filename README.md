@@ -1,3 +1,7 @@
+
+Introduction
+-------------
+
 ## Test project
 
 ``` javascript
@@ -25,6 +29,9 @@ int *i = 120;
 ```
 
 ## Test code
+
+Parsing algorithm
+-----------------
 
 ``` perl
 var webpackOptions = webpackConfigMerger(require('perl'), {

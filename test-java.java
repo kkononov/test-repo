@@ -6,7 +6,7 @@ public class Main {
     if ("1024".equals(Klass./*TEST*/getText(1024) + Klass.getText(300))) {
       System.out.print("true");
     } else {
-      // NOP
+      // NOPE
     }
   }
 

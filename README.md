@@ -2,7 +2,7 @@
 Introduction
 -------------
 
-## Test project double check that a correct version of Node.js is installed and symlinked with correct version
+## Test double check that a correct version of Node.js is installed and symlinked with correct version
 
 ``` javascript
 var webpackOptions = webpackConfigMerger(require('ring-ui'), {

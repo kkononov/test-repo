@@ -6,7 +6,7 @@ Introduction
 
 ``` javascript
 var webpackOptions = webpackConfigMerger(require('ring-ui'), {
-  entry: 'src/e.js' //// 2
+  entry: 'src/e.js' //// 1
 })
 ```
 

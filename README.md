@@ -1,18 +1,14 @@
-
-Introduction
--------------
-
-## Test double check that a correct version of Node.js is installed and symlinked with correct version
+## Test project (this is <h1> tag test)
 
 ``` javascript
 var webpackOptions = webpackConfigMerger(require('ring-ui'), {
-  entry: 'src/e.js' //// 1
+  entry: 'src/e.js' ////
 })
 ```
 
 ```
 var webpackOptions = webpackConfigMerger, {
-  entry: 'src/entry.js', // plain test
+  entry: 'src/entry.js', // plain text
 })
 ```
 
@@ -25,13 +21,10 @@ var webpackOptions = webpackConfigMerger(require('perl'), {
 ```
 
 ``` clike
-int *i = 120;
+int *i = 1200;
 ```
 
 ## Test code
-
-Parsing algorithm ?? new +? ag\\ag
------------------
 
 ``` perl
 var webpackOptions = webpackConfigMerger(require('perl'), {

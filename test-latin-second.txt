@@ -63,7 +63,6 @@ Donec elementum nulla ut urna semper, ac mollis augue elementum.
 Maecenas non justo ut orci bibendum dictum.
 Maecenas consequat erat quis tempus fermentum.
 Sed facilisis purus in sapien lacinia pretium.
-Aliquam at leo cursus, tristique orci dapibus, eleifend magna.
 Phasellus at ipsum varius, maximus urna in, efficitur urna.
 Vestibulum id lectus eget leo volutpat feugiat ac id turpis.
 Nunc lacinia odio eu sapien efficitur, ut consequat ipsum auctor.

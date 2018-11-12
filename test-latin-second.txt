@@ -4,7 +4,7 @@ Maecenas mattis odio et nisl feugiat blandit.
 Fusce condimentum elit eleifend, porta odio et, volutpat enim.
 New Ut
 Integer et nulla luctus, efficitur magna quis, ultrices sem.
-Sed ornare justo vitae augue rhoncus, vel iaculis justo pellentesque.
+Sed ornare justo vitae augue rhoncus, vel iaculis justo.
 Ut commodo elit lectus quis risus varius, aliquam dolor congue.
 
 Quisque non velit vel dolor suscipit aliquet.

@@ -3,7 +3,7 @@ package test;
 public class Test {
 
   private final static String PREDICTION_DATA_COLUMN = "predictionData";
-  private final static String NOT_MODIFIED_COLUMN = "theSame";
+  private final static String NOT_MODIFIED_COLUMN = "theSame-test";
 
   private final Table<String, String> myDbTable; // new commented line
   private final Serializer<Map<String, Double>> myPredictionDataSerializer =

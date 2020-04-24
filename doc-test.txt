@@ -1,2 +1,4 @@
 test line
 another test line
+TEST
+TEST 2
